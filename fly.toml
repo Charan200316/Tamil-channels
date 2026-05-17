@@ -1,4 +1,4 @@
-app = "tamil-channels"
+app = "tamil-channels-live-v2"
 primary_region = "sin" # Change to a region close to you, e.g., 'maa' for Chennai, 'bom' for Mumbai, 'sin' for Singapore
 
 [build]
