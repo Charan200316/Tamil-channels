@@ -1,4 +1,4 @@
-app = "CSK"
+app = "tamil-channels"
 primary_region = "sin" # Change to a region close to you, e.g., 'maa' for Chennai, 'bom' for Mumbai, 'sin' for Singapore
 
 [build]
