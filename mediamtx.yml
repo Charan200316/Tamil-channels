@@ -1,4 +1,4 @@
 paths:
   mylivestream:
-    source: http://184.107.146.4/CF5A68754DABZZZZZ64f93895a2459f48d398868bdf6553d5fd2eecd/index.m3u8?token=f24ede7f67f22409baf7224171636041
+    source: http://169.150.236.38:63425/CF5A68754DABZZZZZ64f89974a2f4bed93388f79a0f248242fdfe7c4831b8982/index.m3u8?token=
     sourceOnDemand: no
