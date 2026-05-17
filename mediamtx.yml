@@ -1,4 +1,4 @@
 paths:
   mylivestream:
-    source: http://198.50.126.4/CF5A68754DABZZZZZ64f93895a2459f48d398967a2f54f3e5dc9ed/index.m3u8?token=1c404141004456449b868995cb630c44
+    source: https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.mp4/.m3u8
     sourceOnDemand: Yes
