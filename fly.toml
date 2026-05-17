@@ -1,0 +1,17 @@
+app = "CSK"
+primary_region = "sin" # Change to a region close to you, e.g., 'maa' for Chennai, 'bom' for Mumbai, 'sin' for Singapore
+
+[build]
+
+[[services]]
+  http_checks = []
+  internal_port = 8888
+  processes = ["app"]
+
+  [[services.ports]]
+    handlers = ["http"]
+    port = 80
+
+  [[services.ports]]
+    handlers = ["tls", "http"]
+    port = 443
